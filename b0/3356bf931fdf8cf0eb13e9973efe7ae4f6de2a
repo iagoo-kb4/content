@@ -1,0 +1,23 @@
+Packs/knowbe4Phisher/Integrations/knowbe4Phisher/README.md
+  s_44a87efa8d0180::t_44cca919a9ef71 13
+Packs/knowbe4Phisher/Integrations/knowbe4Phisher/knowbe4Phisher.yml
+  s_44a87efa8d0180::t_295dcc30a1336b 48
+Packs/knowbe4Phisher/ReleaseNotes/1_0_23.md
+  s_44a87efa8d0180::t_c1758b2df45316 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "b03356bf931fdf8cf0eb13e9973efe7ae4f6de2a",
+  "prompts": {},
+  "sessions": {
+    "s_44a87efa8d0180": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3f1a9e7c-e3ed-428b-abe8-a7a0872a314c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Iago B Oliveira <iagoo@knowbe4.com>"
+    }
+  }
+}
